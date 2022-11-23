@@ -1,0 +1,33 @@
+.post{
+    background-color: pink;
+height:250px;
+width: 400px;
+color:darkred;
+text-align: center;
+}
+p{
+    color:black;
+    text-align: center;
+}
+.mid{
+    text-align: center;
+}
+h2{
+    color: black;
+   
+}
+.us{
+    background-color: black;
+    color: white;
+}
+.btn{
+    float: left;
+   background-color: black;
+   color: white;
+}
+.btnn{
+    background-color: red;
+}
+.Edt{
+    background-color: green;
+}
